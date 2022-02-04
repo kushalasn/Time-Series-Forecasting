@@ -1,4 +1,4 @@
 # Time-Series-Forecasting
-Insights about moving average
 
-The moving average is a statistical method used for forecasting long-term trends. The technique represents taking an average of a set of numbers in a given range while moving the range.
+
+I'm adding all the Data Camp Assignments based on Time series forecasting with single,multiple dataframes. This also contains about correlation among columns, various plots and visualizations  that distinguish statistically significant attributes.
